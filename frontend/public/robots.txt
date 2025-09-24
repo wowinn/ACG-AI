@@ -1,0 +1,17 @@
+# This file is used by the build system to include only the files that are
+# needed for the production build
+# See https://create-react-app.dev/docs/using-the-public-folder/#adding-assets-outside-of-src
+
+# Favicon
+favicon.ico
+
+# Manifest
+manifest.json
+
+# Icons
+logo192.png
+logo512.png
+
+# Robots
+robots.txt
+
