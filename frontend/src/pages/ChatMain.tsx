@@ -324,3 +324,5 @@ const MessageBubble: React.FC<MessageBubbleProps> = ({ message, character }) => 
     </div>
   );
 };
+
+
